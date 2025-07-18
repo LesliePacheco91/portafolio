@@ -672,7 +672,7 @@ buttonLigth.addEventListener('click', function(event) {
     buttonHigh.style.display = "block";
 
     type_proyects.forEach(div =>{
-        div.style.border = "2px solid  #d447a0";
+        div.style.border = "1px solid  #d447a0";
         div.style.color = "#d447a0";
     })
     
@@ -771,7 +771,7 @@ buttonHigh.addEventListener('click', function(event) {
     buttonHigh.style.display = "none";
 
     type_proyects.forEach(div =>{
-        div.style.border = "2px solid  #fff";
+        div.style.border = "1px solid  #fff";
         div.style.color = "#fff";
     });
 
