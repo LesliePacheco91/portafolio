@@ -580,6 +580,10 @@ body, #container {
   cursor: pointer;
 }
 
+.header_proyectos li:hover{
+  transform: scale(1.1);
+}
+
 .list_type_proyect {
   list-style: none;
   width:53%;
@@ -602,10 +606,6 @@ body, #container {
   
 }
 
-.type_Proyect:hover{
-  transform: scale(1.1);
-	color:#000;
-}
 /* Estilos para tablets y dispositivos más pequeños */
 @media (max-width:  768px) {
 
