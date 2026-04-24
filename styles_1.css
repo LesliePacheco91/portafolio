@@ -165,7 +165,7 @@ body, #container {
   font-size: 14px;
 }
 
-.redes a:hover{
+.redes a:hover , .header_proyectos li{
   transform: scale(1.1);
 }
 
