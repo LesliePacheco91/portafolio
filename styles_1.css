@@ -580,9 +580,6 @@ body, #container {
   cursor: pointer;
 }
 
-.header_proyectos li:hover{
-  transform: scale(1.1);
-}
 
 .list_type_proyect {
   list-style: none;
@@ -603,7 +600,13 @@ body, #container {
   align-content: center;
   display: block;
   font-weight: bold;
-  
+}
+
+
+
+
+.type_Proyect:hover{
+  transform: scale(1.1);
 }
 
 /* Estilos para tablets y dispositivos más pequeños */
