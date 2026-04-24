@@ -165,7 +165,7 @@ body, #container {
   font-size: 14px;
 }
 
-.redes a:hover , .header_proyectos li{
+.redes a:hover{
   transform: scale(1.1);
 }
 
@@ -602,8 +602,9 @@ body, #container {
   
 }
 
-.type_proyect:hover{
+.type_Proyect:hover{
   transform: scale(1.1);
+	color:#000;
 }
 /* Estilos para tablets y dispositivos más pequeños */
 @media (max-width:  768px) {
