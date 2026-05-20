@@ -162,7 +162,7 @@ telegramContact.append(textTelegram);
 // button cv
 let buttonCv = document.createElement("a");
 buttonCv.setAttribute("class","buttonCV");
-buttonCv.href = "img/Leslie_pacheco-CV.pdf";
+buttonCv.href = "img/Leslie_pacheco-CV_16.pdf";
 buttonCv.download = 'cv.pdf';
 buttonCv.rel = 'noopener noreferrer';
 
