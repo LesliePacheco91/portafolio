@@ -2,7 +2,7 @@ export default{
     abount :{
         "name":"Leslie Pacheco",
         "title": "Ingeniero en Sistemas Computacionales",
-        "photo": "img/13988.png",
+        "photo": "img/1398888.png",
         "linkedin":"https://www.linkedin.com/in/lesliesharaipacheco/",
         "gitHub": "https://github.com/LesliePacheco91",
         "trailhead": "https://www.salesforce.com/trailblazer/jhbiyila1fm1ar2710",
