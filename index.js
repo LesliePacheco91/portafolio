@@ -661,7 +661,7 @@ let type_proyects = document.querySelectorAll(".type_Proyect");
 
 buttonLigth.addEventListener('click', function(event) {
     event.preventDefault(); 
-    photo.src = "img/leslieP.jpg";
+
     
     imgTrailhead.src = 'img/Trailhead.png';
 
@@ -761,7 +761,7 @@ buttonLigth.addEventListener('click', function(event) {
 buttonHigh.addEventListener('click', function(event) {
     event.preventDefault(); 
 
-    photo.src = "img/leslie.png";
+  
     imgMenuResponsive.style.color = "#30CFD0";
     
     imgTrailhead.src = 'img/Trailhead3.png';
