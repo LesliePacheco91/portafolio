@@ -157,7 +157,7 @@ const textTelegram = document.createElement('h4');
 textTelegram.innerHTML = `<i class="'bi bi-telegram"></i> Telegram`;
 
 
-//telegramContact.append(textTelegram);
+telegramContact.append(textTelegram);
 
 
 // button cv
@@ -173,7 +173,7 @@ textButtom.innerHTML = `<i class="'bi bi-cloud-download"></i> Currículum`;
 
 buttonCv.append(textButtom);
 
-socilaRed.append(linkedin, git, emailContact, telegramContact,  buttonCv);
+socilaRed.append(linkedin, git, emailContact,  buttonCv);
 
 
 let aboutme = document.createElement('div');
