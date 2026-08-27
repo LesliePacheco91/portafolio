@@ -1,7 +1,7 @@
 export default{
     abount :{
         "name":"Leslie Pacheco",
-        "title": "Ingeniero en Sistemas Computacionales",
+        "title": "Ingeniera en Sistemas Computacionales",
         "photo": "img/1398888.png",
         "linkedin":"https://www.linkedin.com/in/lesliesharaipacheco/",
         "gitHub": "https://github.com/LesliePacheco91",
@@ -12,11 +12,11 @@ export default{
           "address": "Yucatán, México",
           "telegram":"https://t.me/Lesli_PC"
         },
-        "summary": "Ingeniera en Sistemas Computacionales y Desarrolladora Web con más de 3 años de experiencia en la industria. Mi especialización en Front-end, combinada con mi pasión por el diseño y la programación, me ha permitido crear soluciones tecnológicas innovadoras que optimizan la eficiencia y facilitan el logro de objetivos. El trabajo en equipo, autoaprendizaje, adaptabilidad y mi creatividad ha sido clave para implementar soluciones efectivas y superar desafíos con éxito. Me rijo por principios de honestidad, responsabilidad y organización, estoy profundamente comprometida con el avance tecnológico y su impacto positivo en la sociedad.",
+        "summary": "Ingeniera en Sistemas Computacionales y Desarrolladora Web con más de 9 años de experiencia en la industria. Mi especialización en Front-end, combinada con mi pasión por el diseño y la programación, me ha permitido crear soluciones tecnológicas innovadoras que optimizan la eficiencia y facilitan el logro de objetivos. El trabajo en equipo, autoaprendizaje, adaptabilidad y mi creatividad ha sido clave para implementar soluciones efectivas y superar desafíos con éxito. Me rijo por principios de honestidad, responsabilidad y organización, estoy profundamente comprometida con el avance tecnológico y su impacto positivo en la sociedad.",
         "experience": [
           {
             "company": "Kosmos",
-            "position": "Tecnical Acount Manager",
+            "position": "Technical Account Manager",
             "startDate": "07-2024",
             "endDate": "01-2025",
             "responsibilities": [
@@ -65,7 +65,7 @@ export default{
              {
                 "id":"2",
                 "name":"Curso de Git y Github: GIT PROFESIONAL desde cero.",
-                "date":" 07/007/2025",
+                "date":" 07/07/2025",
                 "academy":"Udemy",
                 "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-928abdd4-fb7d-434c-961d-391b9e9c66da.jpg?v=1751931209000",
             },
@@ -80,7 +80,7 @@ export default{
                 "id":"2",
                 "name":"Curso de Introducción a MongoDB",
                 "date":" 20/05/2024",
-                "academy":"Platzy",
+                "academy":"Platzi",
                 "url": "https://platzi.com/p/lesliepacheco62/curso/4987-mongodb/diploma/detalle/",
             },
 
@@ -88,14 +88,14 @@ export default{
                 "id":"2",
                 "name":"Curso de Fundamentos de Diseño de Interfaces UX/UI",
                 "date":" 29/02/2024",
-                "academy":"Platzy",
+                "academy":"Platzi",
                 "url": "https://platzi.com/p/lesliepacheco62/curso/5184-course/diploma/detalle/",
             },
             {
                 "id":"2",
                 "name":"Curso Avanzado de Realidad Aumentada",
                 "date":" 20/01/2023",
-                "academy":"Platzy",
+                "academy":"Platzi",
                 "url": "https://platzi.com/p/lesliepacheco62/curso/5184-course/diploma/detalle/",
             },
             {
