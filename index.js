@@ -147,7 +147,7 @@ textContact.innerHTML = `<i class="'bi bi-envelope-at"></i> E-Mail`;
 
 emailContact.append(textContact);
 
-// telegram
+/* telegram
 let telegramContact = document.createElement('a');
 telegramContact.href = arrayData.contact.telegram;
 telegramContact.target = "blanck";
@@ -158,6 +158,7 @@ textTelegram.innerHTML = `<i class="'bi bi-telegram"></i> Telegram`;
 
 
 telegramContact.append(textTelegram);
+*/
 
 // button cv
 let buttonCv = document.createElement("a");
@@ -211,7 +212,7 @@ let menuTypeProyects = document.createElement('ul');
 menuTypeProyects.setAttribute('class', 'list_type_proyect');
 
 // lista de los tipos de proyectos
-const type = ["todo", "Front-End", "Back-End", "Full-Stak"];
+const type = ["todo", "Front-End", "Back-End", "Full-Stack"];
 
 type.forEach((element) => {
     
