@@ -18,7 +18,7 @@ export default{
             "company": "Kosmos",
             "position": "Technical Account Manager",
             "startDate": "07-2024",
-            "endDate": "01-2025",
+            "endDate": "05-2025",
             "responsibilities": [
                 "Desarrollo de proyectos para empresas del sector financiero utilizando la plataforma Cosmos, el lenguaje JavaScript y herramientas de desarrollo Low-Code",
                 "Análisis para la implementación de mejoras en proyectos desarrollados"
@@ -36,6 +36,16 @@ export default{
                 "Evaluación del progreso de los estudiantes mediante proyectos funcionales.",
                 "Creacion de talleres para el refuerzo de conocimintos.",
                 "Actualización constante en nuevas tecnologías.",
+            ]
+          },
+             {
+            "company": "Programadora Web Freelance ",
+            "position": "Programador web",
+            "startDate": "2021",
+            "endDate": "2022",
+            "responsibilities": [
+              "Desarrollo End-to-End: Diseño, arquitectura y despliegue de diversos sitios y plataformas web a la medida para comercios locales utilizando maquetación limpia y bases de datos relacionales/no relacionales y como gestores de contenido como WordPress.",
+              "Mantenimiento y Soporte: Optimización de rendimiento web, corrección de errores de producción y actualización continua de contenido.",
             ]
           },
           {
@@ -65,7 +75,7 @@ export default{
              {
                 "id":"2",
                 "name":"Curso de Git y Github: GIT PROFESIONAL desde cero.",
-                "date":" 07/07/2025",
+                "date":"07/07/2025",
                 "academy":"Udemy",
                 "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-928abdd4-fb7d-434c-961d-391b9e9c66da.jpg?v=1751931209000",
             },
@@ -136,7 +146,7 @@ export default{
             {
                 "id":"2",
                 "name":"Bases de datos en Internet: MySQLi ¡Fácil y práctico!",
-                "date":" 30/09/2018",
+                "date":"30/09/2018",
                 "academy":"Udemy",
                 "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-9PLLQPLM.jpg?v=1698016705000",
             }
