@@ -147,7 +147,7 @@ textContact.innerHTML = `<i class="'bi bi-envelope-at"></i> E-Mail`;
 
 emailContact.append(textContact);
 
-/* telegram
+ //telegram
 let telegramContact = document.createElement('a');
 telegramContact.href = arrayData.contact.telegram;
 telegramContact.target = "blanck";
@@ -157,8 +157,8 @@ const textTelegram = document.createElement('h4');
 textTelegram.innerHTML = `<i class="'bi bi-telegram"></i> Telegram`;
 
 
-telegramContact.append(textTelegram);
-*/
+//telegramContact.append(textTelegram);
+
 
 // button cv
 let buttonCv = document.createElement("a");
