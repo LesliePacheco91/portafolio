@@ -407,7 +407,7 @@ export default{
             }, {
                 "id":"8",
                 "name":"Sitio web La Michoacana",
-                "type":"Full-Stak",
+                "type":"Full-Stack",
                 "description":"Aplicación web que permite el registro, modificación y eliminación de productos, así como el control de inventario y la gestión de ventas en tiempo real. Además, incluye funcionalidades de inicio de sesión para distintos tipos de usuarios, control de accesos, aplicando el modelo Vista-Controlador (MVC) y programación orientada a objetos para asegurar una estructura clara y escalable. El sistema fue diseñado con un enfoque en la usabilidad y la eficiencia operativa.",
                 "image":"img/portafolio/LaMichoacana1.png",
                 "repository":"https://github.com/LesliePacheco91/laMichoacana",
@@ -452,7 +452,7 @@ export default{
             }, {
                 "id":"7",
                 "name":"Sistemas de administracion de Banquetes",
-                "type":"Full-Stak",
+                "type":"Full-Stack",
                 "description":"Sistema web para gestionar rentas y cotizaciones de mobiliario y equipo de banquetes que incluye registro de usuarios, categorización de productos, gestión de clientes y un módulo de rentas y cotizaciones. Se logró optimizar la gestión de rentas y cotizaciones y administrar diversas sucursales desde una sola sede.El reto consistió en recopilar información, definir los requerimientos del cliente y plasmarlos en el desarrollo de cada módulo de la aplicación. ",
                 "image":"img/portafolio/altaporta.png",
                 "languales":[
@@ -595,7 +595,7 @@ export default{
             }, {
                 "id":"4",
                 "name":"Social NetWork ",
-                "type":"Full-Stak",
+                "type":"Full-Stack",
                 "description":"Red social para la publicación de reseñas gastronómicas, donde los usuarios pueden opinar sobre diversos establecimientos culinarios. Cada reseña incluye elementos como la calificación y la ubicación del lugar. La plataforma permite expresar aprobación mediante la función de 'Me gusta' y otorga a los autores la capacidad de editar o eliminar sus publicaciones. El acceso a la aplicación se realiza a través de credenciales de usuario y contraseña, o mediante una cuenta de Google. Se realizaron pruebas unitarias utilizando la herramienta Jest, con un 85 % de aceptación.",
                 "achievements":"Además de lograr los objetivos de aprendizaje, como equipo utilizamos ventanas emergentes y diversos iconos para mayor interactividad y mejor visualización de las calificaciones y se logró mas del 80 % se aceptación de las pruebas unitarios",
                 "image":"img/portafolio/gastroTour.png",
@@ -688,7 +688,7 @@ export default{
             }, {
                 "id":"2",
                 "name":"Sistema de evaluación docente",
-                "type":"Full-Stak",
+                "type":"Full-Stack",
                 "description":"Aplicación web para la automatización del proceso de evaluación docente en la Universidad Tecnológica del Mayab Esta aplicación permite a estudiantes, profesores y personal administrativo realizar evaluaciones mediante un formulario web. Los resultados se procesan automáticamente a través de operaciones matemáticas y se presentan de forma clara y comprensible. La plataforma admite sesiones multiusuario, lo que permite a cada evaluador acceder a su perfil personalizado. En el caso del perfil del profesor, se añadió un módulo para la solicitud de restricción de horario, donde puede seleccionar los días y horarios en los que no podrá asistir. Esta funcionalidad está disponible únicamente para profesores por asignatura (horarios variables) y no aplica para profesores de tiempo completo.",
                 "achievements":"La plataforma ha incrementado la eficiencia del proceso en un 60%, eliminando completamente el error humano y centralizando la información en una base de datos, lo que permitió reemplazar los extensos formatos en Excel utilizados anteriormente. Los resultados se generan en tiempo real, y al concluir el periodo de evaluación, el sistema produce automáticamente un formato listo para imprimirse y entregarse al profesor evaluado, incluyendo sus áreas de oportunidad.",
                 "image":"img/portafolio/2.png",
