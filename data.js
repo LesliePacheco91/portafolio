@@ -12,7 +12,7 @@ export default{
           "address": "Yucatán, México",
           "telegram":"https://t.me/Lesli_PC"
         },
-        "summary": "Ingeniera en Sistemas Computacionales y Desarrolladora Web con más de 9 años de experiencia en la industria. Mi especialización en Front-end, combinada con mi pasión por el diseño y la programación, me ha permitido crear soluciones tecnológicas innovadoras que optimizan la eficiencia y facilitan el logro de objetivos. El trabajo en equipo, autoaprendizaje, adaptabilidad y mi creatividad ha sido clave para implementar soluciones efectivas y superar desafíos con éxito. Me rijo por principios de honestidad, responsabilidad y organización, estoy profundamente comprometida con el avance tecnológico y su impacto positivo en la sociedad.",
+        "summary": "Como Ingeniera en Sistemas y Desarrolladora Full Stack, entiendo el código como una herramienta para optimizar procesos y generar valor real. Mi experiencia abarca desde el desarrollo de componentes web para el sector financiero y sistemas de automatización institucional, hasta la consultoría técnica y la arquitectura de bases de datos relacionales y no relacionales.Me destaco por ser autodidacta, adaptable y por mi habilidad para actuar como puente técnico entre las necesidades de negocio y los equipos de desarrollo. Siempre busco proyectos donde pueda aportar lógica, eficiencia y código limpio.",
         "experience": [
           {
             "company": "Kosmos",
