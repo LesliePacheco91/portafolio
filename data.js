@@ -20,8 +20,9 @@ export default{
             "startDate": "07-2024",
             "endDate": "05-2025",
             "responsibilities": [
-                "Desarrollo de proyectos para empresas del sector financiero utilizando la plataforma Cosmos, el lenguaje JavaScript y herramientas de desarrollo Low-Code",
-                "Análisis para la implementación de mejoras en proyectos desarrollados"
+                "Desarrollo Web: Programación y optimización de componentes web en JavaScript integrados a la plataforma Low-Code Kosmos, dando servicio a financieras.",
+                "Liderazgo Técnico y Requerimientos: Actué como puente técnico entre stakeholders de negocio y el equipo de desarrollo, gestionando el ciclo de vida de requerimientos y optimizando la eficiencia de los sistemas en un 25%.",
+                "Mejora Continua: Implementación de integraciones API y resolución de incidencias en entornos de producción bajo metodologías ágiles."
             ]
           },
           {
@@ -32,10 +33,8 @@ export default{
             "responsibilities": [
                 "Diseño de planes de estudio y programas académicos.",
 
-                "Impartición de clases teóricas y prácticas.",
-                "Evaluación del progreso de los estudiantes mediante proyectos funcionales.",
-                "Creacion de talleres para el refuerzo de conocimintos.",
-                "Actualización constante en nuevas tecnologías.",
+                "Desarrollo Interno y Automatización: Lideré el diseño, desarrollo e implementación de aplicaciones web de gestión interna, como el Sistema de Evaluación Docente EVDOCENTE en PHP/MySQL, automatizando el control institucional y reduciendo los tiempos de gestión en un 60%.",
+                "Formación en TI: Impartición de cátedras universitarias en Programación Orientada a Objetos (POO), Desarrollo Web, Bases de Datos y Gestión de Proyectos formando a más de 4 generaciones de profesionales."
             ]
           },
              {
