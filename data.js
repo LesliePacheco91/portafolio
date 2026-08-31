@@ -26,7 +26,7 @@ export default{
             ]
           },
           {
-            "company": "Universidad Técnológica del Mayab",
+            "company": "Universidad Tecnológica del Mayab",
             "position": "Docente Universitaria de TI y Desarrolladora de Software",
             "startDate": "07-2015",
             "endDate": "08-2024",
