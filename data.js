@@ -60,7 +60,7 @@ export default{
           {
             "company": "YoCo",
             "position": "Pasante de Desarrollo Web",
-            "startDate": "05/2014",
+            "startDate": "05-2014",
             "endDate": "12/2014",
             "responsibilities": [
               "Asistir en el desarrollo de funcionalidades front-end.",
@@ -73,21 +73,21 @@ export default{
              {
                 "id":"2",
                 "name":"Curso de Git y Github: GIT PROFESIONAL desde cero.",
-                "date":"07/07/2025",
+                "date":"07-07-2025",
                 "academy":"Udemy",
                 "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-928abdd4-fb7d-434c-961d-391b9e9c66da.jpg?v=1751931209000",
             },
              {
                 "id":"1",
                 "name":"API REST Nodejs desde cero usando MongoDB o MySQL",
-                "date":" 30/06/2025",
+                "date":" 30-06-2025",
                 "academy":"Udemy",
                 "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-726033db-a30b-420c-a41a-aab3f3496755.jpg?v=1751322502000",
             },
             {
                 "id":"2",
                 "name":"Curso de Introducción a MongoDB",
-                "date":" 20/05/2024",
+                "date":" 20-05-2024",
                 "academy":"Platzi",
                 "url": "https://platzi.com/p/lesliepacheco62/curso/4987-mongodb/diploma/detalle/",
             },
@@ -95,28 +95,28 @@ export default{
             {
                 "id":"2",
                 "name":"Curso de Fundamentos de Diseño de Interfaces UX/UI",
-                "date":" 29/02/2024",
+                "date":" 29-02-2024",
                 "academy":"Platzi",
                 "url": "https://platzi.com/p/lesliepacheco62/curso/5184-course/diploma/detalle/",
             },
             {
                 "id":"2",
                 "name":"Curso Avanzado de Realidad Aumentada",
-                "date":" 20/01/2023",
+                "date":" 20-01-2023",
                 "academy":"Platzi",
                 "url": "https://platzi.com/p/lesliepacheco62/curso/5184-course/diploma/detalle/",
             },
             {
                 "id":"1",
                 "name":"Curso completo de Hacking Ético y Ciberseguridad",
-                "date":" 11/12/2022",
+                "date":" 11-12-2022",
                 "academy":"Udemy",
                 "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-435edcf5-fb3b-4d33-98a2-ff4d7d87dd7b.jpg?v=1670810701000",
             },
             {
                 "id":"2",
                 "name":" Fundamentos de la Gerencia de Proyectos",
-                "date":"11/12/2022",
+                "date":"11-12-2022",
                 "academy":"Udemy",
                 "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-49f9a6e8-4350-442c-92f6-d89f5248e231.jpg?v=1670810865000",
             },
@@ -124,27 +124,27 @@ export default{
             {
                 "id":"1",
                 "name":"Angular: De cero a experto (Legacy)",
-                "date":"11/12/2022",
+                "date":"11-12-2022",
                 "academy":"Udemy",
                 "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-d9e5ae9c-859c-41fb-8f92-d6236bdc2d99.jpg?v=1670810385000",
             },  {
                 "id":"2",
                 "name":" Máster en PHP 8, POO, MVC, MySQL, Laravel 8, CodeIgniter 4",
-                "date":"29/07/2019",
+                "date":"29-07-2019",
                 "academy":"Udemy",
                 "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-BXR8E2Q9.jpg?v=1675527783000",
             },
             {
                 "id":"1",
                 "name":"Desarrollo de sistemas web en PHP 7 POO, MySQL, Jquery Ajax",
-                "date":"31/08/2018",
+                "date":"31-08-2018",
                 "academy":"Udemy",
                 "url": "https://www.udemy.com/certificate/UC-5TA1VAMT/",
             },
             {
                 "id":"2",
                 "name":"Bases de datos en Internet: MySQLi ¡Fácil y práctico!",
-                "date":"30/09/2018",
+                "date":"30-09-2018",
                 "academy":"Udemy",
                 "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-9PLLQPLM.jpg?v=1698016705000",
             }
@@ -396,7 +396,7 @@ export default{
                         "color":"#6956c561"
                     },
                     {
-                        "id":"7",
+                        "id":"8",
                         "image":"devicon-git-plain colored",
                         "name":"GIT",
                         "color":"#fb8a7061"
@@ -419,13 +419,13 @@ export default{
                         "color":"#69a15a63"
                     },
                     {
-                        "id":"3",
+                        "id":"2",
                         "image":"devicon-javascript-plain colored",
                         "name":"JavaScript",
                         "color":"rgba(236, 221, 125, 0.32)"
                     },
                     {
-                        "id":"4",
+                        "id":"3",
                         "image":"devicon-eslint-plain colored",
                         "name":"ESLINT",
                         "color":"#6956c561"
