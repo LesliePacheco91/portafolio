@@ -27,7 +27,7 @@ export default{
           },
           {
             "company": "Universidad Técnológica del Mayab",
-            "position": "Profesor de asignatura",
+            "position": "Docente Universitaria de TI y Desarrolladora de Software",
             "startDate": "07-2015",
             "endDate": "08-2024",
             "responsibilities": [
@@ -171,7 +171,7 @@ export default{
             "url": "img/laboratora.pdf",
           },
           {
-            "institution": "Instito Tecnológico Superior del Sur del Estado de Yucatán (TSSY)",
+            "institution": "Instituto Tecnológico Superior del Sur del Estado de Yucatán (ITSSY)",
             "degree": "Ingeniería en Sistemas computacionales",
             "startDate": "2009",
             "endDate": "2014",
